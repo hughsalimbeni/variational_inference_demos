@@ -3,6 +3,9 @@
 Created on Tue Feb 23 14:14:32 2016
 
 @author: hughsalimbeni
+
+Based on code written by Matthew Lee: https://github.com/mauinz
+
 """
 
 
